@@ -1,6 +1,5 @@
 # Lexy
-A typeface
 
-Feel free to [download](Lexy.ttf) and use it.
+A typeface created with Parallel Pen. Feel free to [download](Lexy.ttf) for free for non-commercial use.
 
 ![Lexy Typeface](lexytypeface.png)
