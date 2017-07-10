@@ -3,4 +3,4 @@ A typeface
 
 Feel free to [download](Lexy.ttf) and use it.
 
-![lexytypeface.png]
+![Lexy Typeface](lexytypeface.png)
