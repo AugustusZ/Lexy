@@ -12,10 +12,9 @@ Free for non-commercial use.
 - `a-z` [26]
 - `0-9` [10]
 
-### Downloads
+### Download
 
 - [TTF](typefaces/Lexy-1.1.ttf)
-- [OTF](typefaces/Lexy-1.1.otf)
 
 ---
 
