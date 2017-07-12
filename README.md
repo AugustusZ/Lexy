@@ -2,15 +2,15 @@ Free for non-commercial use.
 
 ## New Version -- 1.1
 
-![Lexy Typeface](images/Lexy-1.1.png)
+![Lexy Typeface Version 1.1](images/Lexy-1.1.png)
 
 ### Glyphs (75)
 
 - `!` `"` `&` `'`(U+0027) `(` `)` `,` `-` `.` `/` [10]
-- `A-Z` (26)
+- `A-Z` [26]
 - `:` `;` `?` [3]
-- `a-z` (26)
-- `0-9` (10)
+- `a-z` [26]
+- `0-9` [10]
 
 ### Downloads
 
@@ -23,7 +23,7 @@ Free for non-commercial use.
 
 ## Version 1.0
 
-![Lexy Typeface](images/Lexy-1.0.png)
+![Lexy Typeface Version 1.0](images/Lexy-1.0.png)
 
 ### Glyphs (89)
 
